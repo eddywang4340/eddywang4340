@@ -41,7 +41,7 @@ JS      ███████████░░░░░░░░░░░░░
 
 ## 📌 Pinned Repositories
 
-### [Biquadris][https://github.com/eddywang4340/CS246-Biquadris]
+### [Biquadris](https://github.com/eddywang4340/CS246-Biquadris)
 Biquadris is a two-player competitive variant of Tetris where players take turns dropping blocks and can apply special actions to hinder their opponent when they clear multiple rows simultaneously. The project demonstrates object-oriented design principles through its implementation of design patterns, polymorphism, and inheritance in C++.
 
 ### [2023-2706-Robot-Code](https://github.com/eddywang4340/2023-2706-Robot-Code)
