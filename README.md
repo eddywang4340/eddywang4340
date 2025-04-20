@@ -53,11 +53,6 @@ Learning to program in C [brief description]
 ### [Project-Prep](https://github.com/eddywang4340/Project-Prep)
 [Brief description of what this project does]
 
-## 🏆 Achievements
-- [Any competitions or hackathons you've participated in]
-- [Awards or recognition you've received]
-- [Certifications or qualifications]
-
 ## 📫 Contact Me
 - LinkedIn: [in/eddywang530](https://linkedin.com/in/eddywang530)
 - Email: e258wang@uwaterloo.ca
