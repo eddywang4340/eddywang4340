@@ -44,14 +44,14 @@ JS      ███████████░░░░░░░░░░░░░
 ### [Biquadris](https://github.com/eddywang4340/CS246-Biquadris)
 Biquadris is a two-player competitive variant of Tetris where players take turns dropping blocks and can apply special actions to hinder their opponent when they clear multiple rows simultaneously. The project demonstrates object-oriented design principles through its implementation of design patterns, polymorphism, and inheritance in C++.
 
-### [2023-2706-Robot-Code](https://github.com/eddywang4340/2023-2706-Robot-Code)
-Code for the 2023 FIRST Robotics Competition game
+### [Bird-Classifier-ML](https://github.com/eddywang4340/Bird-Classifier-ML)
+The ML side of the Bird Classifier project uses TensorFlow to identify bird species from images. The project features a Flask API that serves predictions using a MobileNet model, supporting both file uploads and base64-encoded images.
 
-### [C-Programming](https://github.com/eddywang4340/C-Programming)
-Learning to program in C [brief description]
+### [Bird-Classifier-App](https://github.com/eddywang4340/bird-classifier-app)
+A React Native/Expo mobile application that identifies bird species using computer vision. The app captures photos through the device camera and uses a TensorFlow.js model to classify birds in real-time.
 
-### [Project-Prep](https://github.com/eddywang4340/Project-Prep)
-[Brief description of what this project does]
+### [Personal Website](https://github.com/eddywang4340/personal-website-react)
+Code for my personal website
 
 ## 📫 Contact Me
 - LinkedIn: [in/eddywang530](https://linkedin.com/in/eddywang530)
