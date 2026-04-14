@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Hey,%20I'm%20Eddy%20🤙&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS%20@%20UWaterloo%20%7C%20Building%20things%20that%20learn&descSize=18&descColor=8b949e&descAlignY=55" width="100%" />
 
 <!-- Typing SVG — cycles through intro facts -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=650&height=40&lines=full-stack+dev+%F0%9F%92%BB+%7C+ml+enthusiast+%F0%9F%A7%A0;cs+student+%40+university+of+waterloo+%F0%9F%8E%93;exploring+agentic+ai+workflows+%F0%9F%A4%96;building+apps+that+see+%F0%9F%90%A6+and+think+%F0%9F%A7%A0;i+debug+with+print+statements+and+i%27m+not+sorry+%F0%9F%90%9B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=650&height=40&lines=full-stack+dev+%F0%9F%92%BB+%7C+ml+enthusiast+%F0%9F%A7%A0;cs+student+%40+university+of+waterloo+%F0%9F%8E%93;exploring+agentic+ai+workflows+%F0%9F%A4%96;building+apps+that+see+and+think+%F0%9F%A7%A0;i+debug+with+print+statements+and+i%27m+not+sorry+%F0%9F%90%9B" alt="Typing SVG" /></a>
 
 </div>
 
