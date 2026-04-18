@@ -47,7 +47,7 @@
 </div>
 
 ---
-
+<!--
 ## 🔥 Featured Projects
 
 <table>
@@ -90,7 +90,7 @@ My portfolio site — built with React, showcasing projects and experience.
 </table>
 
 ---
-
+-->
 ## 📬 Let's Connect
 
 <div align="center">
